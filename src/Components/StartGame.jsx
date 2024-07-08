@@ -4,10 +4,7 @@ const StartGame = ({ toggle }) => {
   return (
     <Container>
       <div className="Image">
-        <img
-          src="https://s3-alpha-sig.figma.com/img/fce5/e0a7/6d3e531201ecd44ca61f9d27ff82e0ae?Expires=1720396800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=CkrZOtxAS2Zu8R2z5A2KWs5~T7q-UdxyPS-DCT8xpqlnH8qPAtk7XG9kTg~cQggZcjXumkuCxt5~CNzOkrM-4JKlLnB27hIdXBRxS4Nkvyk16GO2hryByjankxhaJh5D0ASEAt06mWG3OlJhlMOLspY-nUogNqm1OIB30uzzeHJJC30h-rlHNXXZ80ts-OgMvJvmLkmdJauAMAOSGGJiDwViAG20ksSVUXzccrJzNcrymzHESp0-vC-oK8v3u5vlA2vvgoTaNaQgVG1xOZSh3yzW7k3UfnfRQz66xZ-fDV5CmrlMtZJOLbEH79CsVaYwCxTRMvgQaNpsWbkJ5QKmyQ__"
-          alt=""
-        />
+        <img src="images/hero-dice.png" alt="Dice images" />
       </div>
       <div className="content">
         <h1>Dice Game</h1>
